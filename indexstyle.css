@@ -1,0 +1,13 @@
+body {
+  background-image: url("./myimages/background.png");
+  height: 100 px;
+}
+
+#container {
+  width: 400px;
+}
+
+#float {
+  width: 400px;
+  float: right;
+}
