@@ -10,4 +10,29 @@ body {
 #float {
   width: 400px;
   float: right;
+  text-align: right;
+}
+
+p1 {
+  float: right;
+}
+
+.contact-form {
+  padding: 25px;
+}
+
+.contact-header {
+  color: white;
+}
+
+div.line {
+  border: 1px solid white;
+}
+
+.full-width {
+  width: 100% !important;
+}
+
+img {
+  max-width: 60%;
 }
