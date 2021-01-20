@@ -3,20 +3,6 @@ body {
   height: 100 px;
 }
 
-#container {
-  width: 400px;
-}
-
-#float {
-  width: 400px;
-  float: right;
-  text-align: right;
-}
-
-p1 {
-  float: right;
-}
-
 .contact-form {
   padding: 25px;
 }
@@ -34,5 +20,20 @@ div.line {
 }
 
 img {
-  max-width: 60%;
+  max-width: 68%;
+}
+
+/* beginning of about me css style */
+.card-title1 {
+  text-align: center;
+  padding-right: 45%;
+  color: white;
+}
+.card bootstrap-card {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.aboutmep2 {
+  word-wrap: break-word;
 }
