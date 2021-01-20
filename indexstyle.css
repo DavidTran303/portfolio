@@ -1,6 +1,6 @@
 /* bootstrap sticky footer */
 .container-fluid {
-  padding-top: 60px;
+  padding-top: 30px;
 }
 
 /* background image for each html  */
@@ -27,7 +27,7 @@ div.line {
 }
 
 img {
-  max-width: 68%;
+  max-width: 100%;
 }
 
 /* beginning of about me css style */
