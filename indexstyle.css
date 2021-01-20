@@ -1,8 +1,15 @@
+/* bootstrap sticky footer */
+.container-fluid {
+  padding-top: 60px;
+}
+
+/* background image for each html  */
 body {
   background-image: url("./myimages/background.png");
   height: 100 px;
 }
 
+/* beginning of contact html */
 .contact-form {
   padding: 25px;
 }
@@ -10,7 +17,7 @@ body {
 .contact-header {
   color: white;
 }
-
+/* a border line for contact and index html */
 div.line {
   border: 1px solid white;
 }
@@ -37,5 +44,3 @@ img {
 .aboutmep2 {
   word-wrap: break-word;
 }
-
-/* portfolio's css */
